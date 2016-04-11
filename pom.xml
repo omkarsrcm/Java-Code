@@ -31,6 +31,12 @@
     <tomcat.version>7.0.47</tomcat.version>
   </properties>
 
+  <scm>
+    <connection>scm:git:https://github.com/navinnahar/Java_ECommerce_Demo_Proj.git</connection>
+    <url>http://github.com/navinnahar/Java_ECommerce_Demo_Proj</url>
+    <developerConnection>scm:git:https://github.com/navinnahar/Java_ECommerce_Demo_Proj.git</developerConnection>
+  </scm>
+
   <distributionManagement>
       <repository>
           <id>releases</id>
