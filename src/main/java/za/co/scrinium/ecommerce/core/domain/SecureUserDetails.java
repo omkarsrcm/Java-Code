@@ -34,6 +34,7 @@ import java.util.Collection;
  * Created By Leo Ackerman
  * Created On 2014/01/20 2:08 PM
  */
+
 public class SecureUserDetails implements UserDetails {
 
   private String username;
