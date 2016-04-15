@@ -95,6 +95,7 @@ public class WebConfig extends WebMvcConfigurerAdapter {
     registry.setOrder(Ordered.HIGHEST_PRECEDENCE);
   }
 
+
   @Bean
   public MessageSource messageSource() {
     ReloadableResourceBundleMessageSource messageSource = new ReloadableResourceBundleMessageSource();
