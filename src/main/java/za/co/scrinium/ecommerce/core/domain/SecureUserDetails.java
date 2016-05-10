@@ -69,6 +69,7 @@ public class SecureUserDetails implements UserDetails {
     return true;
   }
 
+
   @Override
   public boolean isAccountNonLocked() {
     return true;
