@@ -79,6 +79,7 @@ public class SecureUserDetails implements UserDetails {
     return true;
   }
 
+
   @Override
   public boolean isEnabled() {
     return true;
