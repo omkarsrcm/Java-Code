@@ -23,6 +23,7 @@
 
 package za.co.scrinium.ecommerce.core.service;
 
+
 import org.springframework.security.core.userdetails.UserDetailsService;
 import za.co.scrinium.ecommerce.events.user.RequestUserByIdEvent;
 import za.co.scrinium.ecommerce.events.user.SingleUserEvent;
