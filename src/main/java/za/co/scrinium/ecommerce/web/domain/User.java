@@ -92,6 +92,7 @@ public class User {
     userType = aUserType;
   }
 
+
   public static User fromDetail(UserDetail aUserDetail) {
     User user = new User();
     user.setId(aUserDetail.getId());
