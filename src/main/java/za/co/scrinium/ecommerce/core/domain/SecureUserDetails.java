@@ -21,7 +21,6 @@
  * CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-
 package za.co.scrinium.ecommerce.core.domain;
 
 import org.springframework.security.core.GrantedAuthority;
