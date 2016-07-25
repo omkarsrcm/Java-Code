@@ -72,6 +72,7 @@ public class Basket implements Serializable {
     return findAll();
   }
 
+
   public int getSize() {
     return products.size();
   }
